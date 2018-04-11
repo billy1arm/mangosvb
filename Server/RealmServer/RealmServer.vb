@@ -915,11 +915,9 @@ Public Module RealmServer
         Console.WriteLine(" |  \/  |__ _| \| |/ __|/ _ \/ __|  \ \ / /| _ )      We Love ")
         Console.WriteLine(" | |\/| / _` | .` | (_ | (_) \__ \   \ V / | _ \   Vanilla Wow")
         Console.WriteLine(" |_|  |_\__,_|_|\_|\___|\___/|___/    \_/  |___/              ")
-        Console.WriteLine("                                           ____               ")
-        Console.WriteLine(" For help and support please visit:       /_  /___ _ _ ___    ")
-        Console.WriteLine("      Website: https://getmangos.eu        / // -_) '_/ _ \   ")
-        Console.WriteLine(" Forum / Wiki: https://getmangos.eu       /___\___|_| \___/   ")
-        Console.WriteLine(" _____________________________________________________________")
+        Console.WriteLine("                                                              ")
+        Console.WriteLine(" Original Development Group: https://getmangos.eu/            ")
+        Console.WriteLine(" Supporting Development Group: https://www.emudev.net/        ")
         Console.WriteLine("")
 
         Console.ForegroundColor = ConsoleColor.Magenta
