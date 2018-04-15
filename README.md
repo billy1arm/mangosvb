@@ -16,7 +16,7 @@ Issues can be reported via the [Issue Tracker](https://github.com/emu-dev/mangos
 
 Reminder when reporting issues, please take the time to review all issues posted before generating a new issue. This will help to prevent duplicate issues.
 
-In addition, thoroughtly read through our Issue Tracker Guide (Coming Soon), to ensure your report contains the required information need to help us. Incorrectly or porrly formed reports will be reject on the spot.
+In addition, thoroughtly read through our [Issue Tracker Guide](IssueTemplate.md), to ensure your report contains the required information need to help us. Incorrectly or porrly formed reports will be reject on the spot.
 
 ## Submitting Fixes
 
