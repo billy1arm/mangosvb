@@ -7,8 +7,8 @@ It is derived from SpuriousEmu, and is based on the code of that project with ch
 This project is completely open source and community involvement is always welcome.
  
 ## Requirements
-
-Software requirements are available in our website. (Coming Soon)
+    Visual Studio 2015 (Windows)
+    Visual Basic Compiler Enabled
 
 ## Reporting Issues
 
