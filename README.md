@@ -1,5 +1,8 @@
 MangosVB (Master)
 ==========
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/emu-dev/mangosvb.svg)](http://isitmaintained.com/project/emu-dev/mangosvb "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/emu-dev/mangosvb.svg)](http://isitmaintained.com/project/emu-dev/mangosvb "Percentage of issues still open")
+
 *MangosVB* is a MMORPG Framework based in Visual Basic.
 
 It is derived from SpuriousEmu, and is based on the code of that project with changes over time to optimize, improve the in-game mechanics and its functionality.
