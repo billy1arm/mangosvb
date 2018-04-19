@@ -2,6 +2,7 @@ MangosVB (Master)
 ==========
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/emu-dev/mangosvb.svg)](http://isitmaintained.com/project/emu-dev/mangosvb "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/emu-dev/mangosvb.svg)](http://isitmaintained.com/project/emu-dev/mangosvb "Percentage of issues still open")
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 *MangosVB* is a MMORPG Framework based in Visual Basic.
 
